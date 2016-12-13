@@ -23,3 +23,9 @@ NPM_HISTORY=http://localhost:8080
 
 2015/04/averages.json:
 	curl -s "$(NPM_HISTORY)/packages/averages?start=2015-04-01&end=2015-05-01" -o $@
+
+2015/05/averages.json:
+	curl -s "$(NPM_HISTORY)/packages/averages?start=2015-05-01&end=2015-06-01" -o $@
+
+2015/06/averages.json:
+	curl -s "$(NPM_HISTORY)/packages/averages?start=2015-06-01&end=2015-07-01" -o $@
