@@ -4,12 +4,12 @@ This repository hosts dumps of averaged downloads for public NPM registry packag
 
 The current averages are only monthly, and are available as:
 
-* https://cdn.rawgit.com/chbrown/npm-downloads-data/gh-pages/2015/04/averages.json
-* https://cdn.rawgit.com/chbrown/npm-downloads-data/gh-pages/2015/03/averages.json
-* https://cdn.rawgit.com/chbrown/npm-downloads-data/gh-pages/2015/02/averages.json
-* https://cdn.rawgit.com/chbrown/npm-downloads-data/gh-pages/2015/01/averages.json
-* https://cdn.rawgit.com/chbrown/npm-downloads-data/gh-pages/2014/12/averages.json
-* https://cdn.rawgit.com/chbrown/npm-downloads-data/gh-pages/2014/11/averages.json
+* https://chbrown.github.io/npm-downloads-data/2015/04/averages.json
+* https://chbrown.github.io/npm-downloads-data/2015/03/averages.json
+* https://chbrown.github.io/npm-downloads-data/2015/02/averages.json
+* https://chbrown.github.io/npm-downloads-data/2015/01/averages.json
+* https://chbrown.github.io/npm-downloads-data/2014/12/averages.json
+* https://chbrown.github.io/npm-downloads-data/2014/11/averages.json
 
 Once a file has been added, it will not be changed.
 Except I'm still trying to figure out how the NPM registry is case-sensitive, because it is.
